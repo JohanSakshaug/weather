@@ -5,7 +5,7 @@ const Header = () => {
     <thead>
       <tr>
         <th>By</th>
-        <th>Temperatur(&#8451;)</th>
+        <th>Temp.(&#8451;)</th>
         <th>Luftfuktighet(%)</th>
       </tr>
     </thead>
